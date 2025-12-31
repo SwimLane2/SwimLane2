@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I’m Arjun 👋
 
-<!--
-**SwimLane2/SwimLane2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Solutions Architect** specialising in **API-led integration, digital commerce, payments, and supply chain–enabled systems**, with a strong focus on **Green IT and sustainable cloud-native architecture**.
 
-Here are some ideas to get you started:
+I’m currently **pursuing a Master’s in Artificial Intelligence**, applying AI and data concepts alongside hands-on architecture delivery to design efficient, resilient, and future-ready enterprise systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas of focus
+- Integration architecture (APIs, auth, orchestration, event-driven design)
+- Digital commerce & payments (headless patterns, checkout, refunds)
+- Supply chain & logistics systems (OMS/WMS/SAP integration)
+- Sustainable and cost-efficient cloud design (Green IT principles)
+- Applied AI and data-driven optimisation
+
+### Principles I design by
+- Clarity in decisions (IAs, ADRs, explicit trade-offs)
+- Operability by default (monitoring, failure modes, supportability)
+- Long-term value over short-term optimisation
+
+---
+
+📌 *This profile highlights selected work and learning. Repositories are intentionally curated for quality over quantity.*
