@@ -1,12 +1,16 @@
-## Hi, I’m Arjun 👋
+# Hi, I’m Arjun 👋
 
-I’m a **Solutions Architect** specialising in **API-led integration, digital commerce, payments, and supply chain–enabled systems**, with a strong focus on **Green IT and sustainable cloud-native architecture**.
+Solutions Architect by profession, swimmer by mindset.
 
-I’m currently **pursuing a Master’s in Artificial Intelligence**, applying AI and data concepts alongside hands-on architecture delivery to design efficient, resilient, and future-ready enterprise systems.
+I enjoy designing scalable and resilient enterprise systems across digital commerce, integrations, payments, and supply chain platforms — while continuously exploring how AI and sustainable technology can shape the future of architecture.
 
-### Areas of focus
-- Integration architecture (APIs, auth, orchestration, event-driven design)
-- Digital commerce & payments (headless patterns, checkout, refunds)
-- Supply chain & logistics systems (OMS/WMS/SAP integration)
-- Sustainable and cost-efficient cloud design (Green IT principles)
-- Applied AI and data-driven optimisation
+Outside of architecture, swimming has become a big part of my life. It keeps me disciplined, focused, and balanced — qualities I try to bring into both technology and everyday life.
+
+Currently exploring:
+- API-led and event-driven architecture
+- Headless commerce and cloud-native systems
+- AI and data-driven solutions
+- Sustainable / Green IT practices
+- Enterprise integration across retail and logistics ecosystems
+
+Always learning, building, and improving — both in technology and in life.
